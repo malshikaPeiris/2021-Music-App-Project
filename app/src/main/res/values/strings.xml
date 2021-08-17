@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sampleMusicApp</string>
+    <string name="btnStop">Stop</string>
+    <string name="btnStart">Start</string>
+</resources>
